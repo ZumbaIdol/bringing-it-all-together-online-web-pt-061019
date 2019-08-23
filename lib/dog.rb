@@ -86,5 +86,7 @@ def self.create_table
       self.new_from_db(row)
     end.first
   end
+  
+  
 end
 
